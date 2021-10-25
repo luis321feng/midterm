@@ -31,7 +31,17 @@ li{
     display: inline;
     font-size: larger;
 }
-p.rag{
-    color: white;
-    
+
+nav{
+    background-color: grey;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 50px 50px 50px 50px;
+    padding:20px 40px;
+
+}
+
+#grad{
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(114, 108, 114));
 }
